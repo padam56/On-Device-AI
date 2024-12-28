@@ -5,13 +5,14 @@ Resources and code for deploying AI models on edge devices like smartphones, IoT
 
 ## Features
 - Convert PyTorch/TensorFlow models for device compatibility.
-- Quantize models for better performance and smaller size.
-- Deploy and validate real-time AI models on devices.
+- Quantize models for higher performance and smaller size.
+- Deploy real-time image segmentation models on devices.
+- Integrate AI models into Android applications with ease.
+- Validate model accuracy and test performance on edge devices.
 
 ## Installation
 1. Clone the repository:
 git clone https://github.com/padam56/On-Device-AI
-
 
 ## Usage
 - Convert, quantize, and deploy your models with provided examples.
