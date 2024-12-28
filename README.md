@@ -10,10 +10,7 @@ Resources and code for deploying AI models on edge devices like smartphones, IoT
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-repo/on-device-ai.git
-
-2. Install dependencies:
-pip install -r requirements.txt
+git clone https://github.com/padam56/On-Device-AI
 
 
 ## Usage
